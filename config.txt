@@ -1,6 +1,6 @@
 owner=354926833453760513
 prefix=!
-game=Break | !play
+game= MF-Community | !play
 stayinchannel=true
 songinstatus=false
 token=NTM5NjAwNjQyNzU5NDU4ODE3.DzEyOQ.agK5IQiBdqE8hdDWuKjPzDI2z5g
